@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me:"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,11 +12,10 @@ My interests primarily involves applying ML across various fields such as physic
 On this site, I'll be sharing insights and projects on multiple of these applications.
 If you have questions about my work, want to suggest a project, or are interested in collaborating, please feel free to contact me.
 
-======
+
 
 
 ## Update:
--------
 A portion of my bachelor's thesis is now available as a pre-print on [Arxiv](https://arxiv.org/abs/2403.15277).
 The paper explores the inverse design of crystals and quasicrystals in a non-additive binary mixture of hard disks. 
 To locate the necessary state points and physical parameters where self-assembly for (quasi)crystals occurs, we employed an inverse design technique. 
@@ -37,7 +36,7 @@ In this paper, we utilize two different fitness functions:
     Your text goes here. You can continue writing the paragraph here and add as much text as you need. The image will stay to the right of this text block.
   </div>
   <div>
-    <img src="../images/InverseDesignSymmetrybasedmethodResult.pdf" alt="Alt text for image" style="max-width:100%;">
+    <img src="../images/InverseDesignSymmetrybasedmethodResult.png" alt="Alt text for image" style="max-width:100%;">
   </div>
 </div>
 
