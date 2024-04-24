@@ -26,12 +26,10 @@ In this paper, we utilize two different fitness functions:
   1. A CNN that assigns a score of how likely the diffraction pattern, originated from a certain phase.
   2. A symmetry-based order parameter that leverages the symmetry encoded within the diffraction pattern.
 
-  Both fitness functions are effective in identifying state points where self-assembly occurs. We discuss the pros and cons of both models in the paper.
-
-
-<img src="/images/InverseDesignSymmetrybasedmethodResult-1.png">
+Both fitness functions are effective in identifying state points where self-assembly occurs. We discuss the pros and cons of both models in the paper.
+For more information take a look at my [blog post](https://JochemLange.github.io/posts/2024-04-24-quasicrystals)
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
-  <img src="/images/InverseDesignSymmetrybasedmethodResult.png" style="max-width: 50%; max-height: 50%; margin-bottom: 0;">
-  <img src="/images/InverseDesignSymmetry-text.png" style="max-width: 50%; max-height: 50%; margin-top: 0;">
+  <img src="/images/InverseDesignSymmetrybasedmethodResult.png" style="max-width: 70%; max-height: 70%; margin-bottom: 0;">
+  <img src="/images/InverseDesignSymmetry-text.png" style="max-width: 70%; max-height: 70%; margin-top: 0;">
 </div>

@@ -7,7 +7,7 @@ To locate the necessary state points and physical parameters where self-assembly
 Essentially, we solve a black box optimization (BBO) problem using an evolutionary strategy (CMA-ES).
 In the paper we utilize two different fitness functions. First of all a CNN, secondly a new symmetry-based order parameter.'
 date: 2024-03-22
-venue: 'Preprint - Arxiv'
+venue: 'Arxiv - Preprint'
 paperurl: 'https://arxiv.org/pdf/2403.15277.pdf'
 ---
 

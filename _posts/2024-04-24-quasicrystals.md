@@ -9,5 +9,5 @@ tags:
   - Evolutionary strategies (ES)
 ---
 
-This will be a blog post about the pre print on [Inverse Design of Crystals and Quasicrystals in a Non-Additive Binary
-Mixture of Hard Disks](https://arxiv.org/abs/2403.15277). 
+This will be a blog post about the pre print on Inverse Design of Crystals and Quasicrystals in a Non-Additive Binary
+Mixture of Hard Disks.
