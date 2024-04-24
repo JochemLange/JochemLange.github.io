@@ -36,12 +36,9 @@ In this paper, we utilize two different fitness functions:
     Your text goes here. You can continue writing the paragraph here and add as much text as you need. The image will stay to the right of this text block.
   </div>
   <div>
-    <img src="../images/InverseDesignSymmetrybasedmethodResult.png" alt="Alt text for image" style="max-width:100%;">
+    <img src="JochemLange.github.io\images\InverseDesignSymmetrybasedmethodResult-1.png" alt="Alt text for image" style="max-width:100%;">
   </div>
 </div>
 
 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
