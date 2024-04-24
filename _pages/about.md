@@ -31,14 +31,7 @@ In this paper, we utilize two different fitness functions:
 
 <img src="/images/InverseDesignSymmetrybasedmethodResult-1.png">
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    Your text goes here. You can continue writing the paragraph here and add as much text as you need. The image will stay to the right of this text block.
-  </div>
-  <div>
-    <img src="/images/InverseDesignSymmetrybasedmethodResult-1.png" alt="Alt text for image" style="max-width:100%;">
-  </div>
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
+  <img src="/images/InverseDesignSymmetrybasedmethodResult.png" style="max-width: 50%; max-height: 50%; margin-bottom: 0;">
+  <img src="/images/InverseDesignSymmetry-text.png" style="max-width: 50%; max-height: 50%; margin-top: 0;">
 </div>
-
-
-
