@@ -27,7 +27,7 @@ In this paper, we utilize two different fitness functions:
   2. A symmetry-based order parameter that leverages the symmetry encoded within the diffraction pattern.
 
 Both fitness functions are effective in identifying state points where self-assembly occurs. We discuss the pros and cons of both models in the paper.
-For more information take a look at my [blog post](https://JochemLange.github.io/posts/2024-04-24-quasicrystals)
+For more information take a look at my [blog post](https://JochemLange.github.io/posts/2024/InverseDesign/)
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <img src="/images/InverseDesignSymmetrybasedmethodResult.png" style="max-width: 70%; max-height: 70%; margin-bottom: 0;">
