@@ -30,6 +30,6 @@ Both fitness functions are effective in identifying state points where self-asse
 For more information take a look at my [blog post](https://JochemLange.github.io/posts/2024/InverseDesign/)
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
-  <img src="/images/InverseDesignSymmetrybasedmethodResult.png" style="max-width: 70%; max-height: 70%; margin-bottom: 0;">
+  <img src="/images/InverseDesignSymmetrybasedmethodResult.png" style="max-width: 70%; max-height: 70%; margin-bottom: 0; margin-top: 20px;">
   <img src="/images/InverseDesignSymmetry-text.png" style="max-width: 70%; max-height: 70%; margin-top: 0;">
 </div>
