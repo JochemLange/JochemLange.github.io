@@ -29,14 +29,14 @@ In this paper, we utilize two different fitness functions:
   Both fitness functions are effective in identifying state points where self-assembly occurs. We discuss the pros and cons of both models in the paper.
 
 
-
+<img src="/images/InverseDesignSymmetrybasedmethodResult-1.png">
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     Your text goes here. You can continue writing the paragraph here and add as much text as you need. The image will stay to the right of this text block.
   </div>
   <div>
-    <img src="JochemLange.github.io\images\InverseDesignSymmetrybasedmethodResult-1.png" alt="Alt text for image" style="max-width:100%;">
+    <img src="/images/InverseDesignSymmetrybasedmethodResult-1.png" alt="Alt text for image" style="max-width:100%;">
   </div>
 </div>
 
