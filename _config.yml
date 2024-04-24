@@ -12,7 +12,7 @@ title                    : "Jochem Teun Lange / Personal webpage"
 title_separator          : "-"
 name                     : &name "Jochem Teun Lange"
 description              : &description "test"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jochemlange.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jochem Teun Lange"
   pronouns         : # example: "she/her"  
-  bio              : "Applied Mathematician \n - using ML in science"
+  bio              : "Applied Mathematician - using ML in science"
   location         : "Utrecht - The Netherlands"
   uri              : # URL
   email            : "jochemlange123@hotmail.com" 
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jochem-lange-205bbb1aa/"
+  linkedin         : "https://www.linkedin.com/in/jochem-lange-205bbb1aa"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
